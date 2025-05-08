@@ -180,3 +180,63 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 - [Zenodo](https://zenodo.org/)
 
 
+
+# How are we doing?
+
+------------------------------------------------------------------------
+
+## The daily costs of workaholism
+
+-   Findable: *DOI 10.17605/OSF.IO/AWBXJ*
+
+-   Accessible: [*https://osf.io/awbxj/*](https://osf.io/awbxj/)
+
+-   Interoperable: *.csv file*
+
+-   Reusable: *CC-By Attribution 4.0 International, datadictionary, readme file, scripts*
+
+(half on github and half on osf?)
+
+
+## Domain-level differences in skills and traits change goals
+
+-   Findable: *DOI 10.17605/OSF.IO/SWDC2*
+
+-   Accessible: [*https://osf.io/swdc2/*](https://osf.io/swdc2/)
+
+-   Interoperable: *.xlsx instead of .csv (also for codebook)*
+
+-   Reusable: *CC-By Attribution 4.0 International, codebook (ie. datadictionary), readme file, scripts*
+
+
+## Predictions under sleep restriction
+
+-   Findable: *DOI 10.17605/OSF.IO/6FXMH*
+
+-   Accessible: <https://osf.io/6fxmh/>
+
+-   Interoperable: *both .csv and .xlsx*
+
+-   Reusable: *CC-By Attribution 4.0 International, renv* *(helps you create reproducible environments for your R projects), but absence of datadictionary and readme*
+
+
+## Auditory and cognitive performance in elderly musicians and nonmusicians
+
+-   Findable: <https://doi.org/10.6084/m9.figshare.5402527.v1>, *Keywords*
+
+-   Accessible: [*figshare*](https://figshare.com/s/0af2a3aeb7860d1c6bbc?file=9306271)
+
+-   Interoperable: *.xlsx instead of .csv*
+
+-   Reusable: *CC-By Attribution 4.0 International, absence of ReadMe and datadictionary*
+
+
+## Dyslexia Polygenic Scores Show Heightened Prediction of Verbal Working Memory and Arithmetic
+
+The full GWAS summary statistics for the 23andMe discovery data set are available through 23andMe to qualified researchers under an agreement with 23andMe that protects the privacy of the 23andMe participants. Datasets will be made available at no cost for academic use. Please visit <https://research.23andme.com/collaborate/#dataset-access/> for more information and to apply to access the data.
+
+
+# Best Practice
+
+![](images/no-access.png){fig-align="center"}
+

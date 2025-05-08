@@ -5,6 +5,9 @@ format:
   revealjs:
     theme: simple
     slide-number: true
+    self-contained-math: true
+    self-contained: true
+    embed-resources: true
 ---
 
 

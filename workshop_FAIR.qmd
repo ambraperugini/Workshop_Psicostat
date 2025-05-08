@@ -55,14 +55,14 @@ format:
 
 ## {.smaller}
 
-\
 
-| PID Type                                       | Used For                         | Example                                 |
-| ---------------------------------------------- | -------------------------------- | --------------------------------------- |
-| **DOI** (Digital Object Identifier)            | Publications, datasets, software | `10.5281/zenodo.1234567`                |
-| **ORCID** (Open Researcher and Contributor ID) | Researcher identities            | `https://orcid.org/0000-0002-1825-0097` |
-| **ROR** (Research Organization Registry)       | Institutions/organizations       | `https://ror.org/03yrm5c26`             |
-| **ARK** (Archival Resource Key)                | Digital archives, libraries      | `ark:/12025/654xz321`                   |
+| PID Type                                       | Used For                                                                 | Example                                 |
+| ---------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------- |
+| **DOI** (Digital Object Identifier)            | Publications, datasets, software                                         | `10.5281/zenodo.1234567`                |
+| **ORCID** (Open Researcher and Contributor ID) | Researcher identities                                                    | `https://orcid.org/0000-0002-1825-0097` |
+| **ROR** (Research Organization Registry)       | Institutions/organizations                                               | `https://ror.org/03yrm5c26`             |
+| **ARK** (Archival Resource Key)                | Digital archives, libraries                                              | `ark:/12025/654xz321`                   |
+| **SWHID** (SoftWare Hash IDentifiers)          | Software source code artifacts, source code files, source trees, commits | Example not provided                    |
 
 
 # Accessible

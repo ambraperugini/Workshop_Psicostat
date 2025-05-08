@@ -15,26 +15,33 @@ format:
      data-background-opacity: "0.20"
 ---
 
-## Comunità Italiana Data Steward
+# Comunità Italiana Data Steward
 
+<div style="font-size:60px;">
 **Chi sono, cosa fanno, perché unirsi**
-
+</div>
 
 ## Premesse
 
 > **FAIR** (Findable, Accessible, Interoperable, Reusable)
 
+<div style="font-size:36px;">
 Nella visione della **Commissione Europea** (ma non solo), i dati sono posti al centro dell’innovazione e della ricerca per poter vincere le grandi sfide del futuro\
 
-I dati devono essere: - Conservati - Accessibili - Rispettosi dei principi etici e legali
+I dati devono essere: 
+
+- Conservati 
+- Accessibili 
+- Rispettosi dei principi etici e legali
 
 Strumenti cruciali per affrontare sfide globali
-
+</div>
 
 ## La visione europea
 
+<div style="font-size:50px;">
 In questo contesto internazionale, nell’ambito del tavolo di lavoro **ICDI** (Italian Computing and Data Infrastructure) e del progetto europeo **Skills4EOSC** – “Skills for the European Open Science Commons: creating a training ecosystem for Open and FAIR science” nasce la “**Comunità Italiana Data Steward**”.
-
+</div>
 
 ## Il ruolo dei Data Steward
 

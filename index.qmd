@@ -264,5 +264,5 @@ The full GWAS summary statistics for the 23andMe discovery data set are availabl
 ##  
 
 <div style="font-size:100px;">
-<a href="manifesto_CDS.html" target="_blank">Manifesto Comunità Italiana Data Steward</a>
+<a href="manifesto_CDS_Calignano.html" target="_blank">Manifesto Comunità Italiana Data Steward</a>
 </div>

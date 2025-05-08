@@ -1,6 +1,6 @@
 ---
 title: "The FAIR Guiding Principles for scientific data management and stewardship"
-author: "Ambra Perugini, Margherita Calderan, & Giulia Calignano"
+author: "Ambra Perugini & Margherita Calderan"
 include-in-header: images/slidesheader.html
 format: 
   revealjs:

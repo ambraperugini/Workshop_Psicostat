@@ -1,6 +1,6 @@
 ---
 title: "The FAIR Guiding Principles for scientific data management and stewardship"
-author: "Ambra Perugini"
+author: "Ambra Perugini & Margherita Calderan"
 format: 
   revealjs:
     theme: simple
@@ -102,12 +102,8 @@ format:
 
 - **CC-BY (CC-BY-4.0)** — Attribution required
 
-- **CC-BY-SA (CC-BY-SA-4.0)** — Attribution + same license
 
- **Best for data sharing:** CC0 or CC-BY
-
-
-# Open Source Licenses (GitHub-Friendly) {.smaller}
+## Open Source Licenses (GitHub-Friendly) {.smaller}
 
 These are commonly used on GitHub for code:
 
@@ -116,10 +112,6 @@ These are commonly used on GitHub for code:
 - **Apache-2.0** — MIT + patent rights
 
 - **GPL-3.0** — Must share derivative code with same license
-
-- **BSD-2-Clause** and **BSD-3-Clause** — Similar to MIT, widely used
-
-- **MPL-2.0** — File-level copyleft, flexible
 
 - **Unlicense** — Public domain equivalent
 

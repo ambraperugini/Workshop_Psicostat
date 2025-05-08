@@ -39,13 +39,16 @@ format:
 
 **Key ideas:**
 
-- Assign globally unique and persistent identifiers (PIDs)
+- Assign globally unique and persistent identifiers (PIDs) [^1]  
 - Metadata should be rich and indexed in searchable resources
 
 **Example in practice:**
 
 - Use DOIs for datasets
 - Tag datasets with relevant keywords and metadata
+
+
+[^1]:  long-lasting references to digital objects, people, or entities that remain stable over time — even if the location (URL) or context of the item changes]
 
 
 # Accessible
@@ -87,11 +90,11 @@ format:
 
 # Understanding Data Licenses
 
-## Why it Matters
+ **Why it Matters:**
 
 - Licenses clarify what others can legally do with your data or code
 
-- No license? Others may not be able to reuse your work—even for research
+- No license? No one is allowed to reuse your work—even for research
 
 
 # Common License Types
@@ -102,8 +105,7 @@ format:
 
 - **CC-BY (CC-BY-4.0)** — Attribution required
 
-
-## Open Source Licenses (GitHub-Friendly) {.smaller}
+## Licenses related to softwares
 
 These are commonly used on GitHub for code:
 
@@ -119,20 +121,19 @@ These are commonly used on GitHub for code:
 
 
 
-# How to License Your Work
+## How to License Your Work
 
 - Choose based on how open you want reuse to be
 
 - Add a short `README` or metadata tag
 
-**Example:**
+**Examples:**
 
 ```text
 This dataset is licensed under CC-BY 4.0.
 You are free to share and adapt it, provided you give appropriate credit.
 ```
 
-Or for code:
 
 ```text
 MIT License
@@ -147,7 +148,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 - Encourages **better documentation** and data curation
 
 
-# First steps to become more FAIR
+## First steps to become more FAIR
 
 - Use data repositories (e.g., OSF, Dataverse)
 
@@ -157,7 +158,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 - Provide clear licenses
 
-# Tools and Resources 
+## Tools and Resources 
 
 - [FAIRsharing.org](https://fairsharing.org/)
 

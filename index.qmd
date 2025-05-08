@@ -15,6 +15,12 @@ format:
      data-background-opacity: "0.15"
 ---
 
+#
+
+<div style="text-align: center;">
+  <img src="images/badges.png" style="width: 70%;" />
+</div>
+
 
 # Why FAIR?
 
@@ -30,7 +36,24 @@ format:
 
 :::
 
+##
+<div style="display: flex; align-items: center; gap: 25px; white-space: nowrap;">
+<span style="font-size: 40px; font-weight: bold;">European Research Council (European Commission)</span>
+  <img src="images/ec.png" alt="EU Flag" style="height: 45px;">
+  </div>
 
+#### <a href="https://erc.europa.eu/sites/default/files/document/file/ERC_info_document-Open_Research_Data_and_Data_Management_Plans.pdf?utm_source=chatgpt.com" target="_blank">Open Research Data and Data Management Plans</a>
+
+<div style="font-size:30px;">
+- *The ERC embraces the **FAIR** data principles: research data should be findable, accessible,
+interoperable and re-usable*
+- <u>***The ERC expects data underlying publications by ERC grantees to adhere to the FAIR
+principles***</u>
+- *The article by <a href="https://www.nature.com/articles/sdata201618" target="_blank">Wilkinson et al. on “The <b>FAIR</b> Guiding Principles for scientific data management and stewardship”</a> provides a detailed discussion of the <b>FAIR</b> principles*
+- *Grantees should demonstrate that their approach to data management planning is in line
+with the <b>FAIR</b> principles by providing adequate information on these five topics [dataset description; standards and metadata; name and persistent identifier for the datasets; curation and preservation methodology; data sharing methodology]*
+- *[Guidelines on <b>FAIR</b> Data Management in Horizon 2020](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf){target="_blank"}*
+</div>
 
 # Overview of FAIR
 

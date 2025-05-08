@@ -1,6 +1,6 @@
 ---
 title: "The FAIR Guiding Principles for scientific data management and stewardship"
-author: "Ambra Perugini & Margherita Calderan"
+author: "Ambra Perugini, Margherita Calderan, & Giulia Calignano"
 include-in-header: images/slidesheader.html
 format: 
   revealjs:
@@ -255,7 +255,14 @@ with the <b>FAIR</b> principles by providing adequate information on these five 
 The full GWAS summary statistics for the 23andMe discovery data set are available through 23andMe to qualified researchers under an agreement with 23andMe that protects the privacy of the 23andMe participants. Datasets will be made available at no cost for academic use. Please visit <https://research.23andme.com/collaborate/#dataset-access/>{target="_blank"} for more information and to apply to access the data.
 
 
-# Best Practice
+## Best Practice
+
+<br/>
 
 ![](images/no-access.png){fig-align="center"}
 
+##  
+
+<div style="font-size:100px;">
+<a href="manifesto_CDS.html" target="_blank">Manifesto Comunità Italiana Data Steward</a>
+</div>

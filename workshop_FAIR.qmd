@@ -35,7 +35,7 @@ format:
 
 
 
-# Findable
+# Findable {.smaller}
 
 **Key ideas:**
 
@@ -47,15 +47,29 @@ format:
 - Use DOIs for datasets
 - Tag datasets with relevant keywords and metadata
 
+\
 
-[^1]:  long-lasting references to digital objects, people, or entities that remain stable over time — even if the location (URL) or context of the item changes]
+\
+
+[^1]:  long-lasting references to digital objects, people, or entities that remain stable over time — even if the location (URL) or context of the item changes
+
+## {.smaller}
+
+\
+
+| PID Type                                       | Used For                         | Example                                 |
+| ---------------------------------------------- | -------------------------------- | --------------------------------------- |
+| **DOI** (Digital Object Identifier)            | Publications, datasets, software | `10.5281/zenodo.1234567`                |
+| **ORCID** (Open Researcher and Contributor ID) | Researcher identities            | `https://orcid.org/0000-0002-1825-0097` |
+| **ROR** (Research Organization Registry)       | Institutions/organizations       | `https://ror.org/03yrm5c26`             |
+| **ARK** (Archival Resource Key)                | Digital archives, libraries      | `ark:/12025/654xz321`                   |
 
 
 # Accessible
 
 **Key ideas:**
 
-- Use standardized protocols (e.g., HTTP)
+- Use standardized protocols 
 - Metadata remains accessible even if data is restricted
 
 **Example in practice:**
@@ -81,7 +95,7 @@ format:
 **Key ideas:**
 
 - Clear data usage licenses
-- Rich metadata describing context, provenance
+- Rich metadata describing context
 
 **Example in practice:**
 
@@ -90,6 +104,7 @@ format:
 
 # Understanding Data Licenses
 
+
  **Why it Matters:**
 
 - Licenses clarify what others can legally do with your data or code
@@ -97,17 +112,18 @@ format:
 - No license? No one is allowed to reuse your work—even for research
 
 
-# Common License Types
+## Common License Types {.smaller}
 
-## Creative Commons (CC) — for datasets, docs, media:
+\
+
+ **Creative Commons (CC) — for datasets, docs, media:**
 
 - **CC0 (CC0-1.0)** — No rights reserved, public domain
 
 - **CC-BY (CC-BY-4.0)** — Attribution required
 
-## Licenses related to softwares
+ **Licenses related to softwares**
 
-These are commonly used on GitHub for code:
 
 - **MIT** — Simple, permissive, attribution only
 
@@ -120,28 +136,9 @@ These are commonly used on GitHub for code:
  **Most GitHub projects use:** MIT, Apache-2.0, or GPL-3.0
 
 
+## Why Use FAIR Principles in Psychology?
 
-## How to License Your Work
-
-- Choose based on how open you want reuse to be
-
-- Add a short `README` or metadata tag
-
-**Examples:**
-
-```text
-This dataset is licensed under CC-BY 4.0.
-You are free to share and adapt it, provided you give appropriate credit.
-```
-
-
-```text
-MIT License
-Copyright (c) 2025 Your Name
-Permission is hereby granted, free of charge, to any person obtaining a copy...
-```
-
-# FAIR in Psychology 
+\
 
 - Improves **replicability** and **meta-analyses**
 - Facilitates **collaboration**
@@ -150,9 +147,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 ## First steps to become more FAIR
 
-- Use data repositories (e.g., OSF, Dataverse)
+- Use data repositories (e.g., OSF)
 
-- Adopt metadata standards (e.g., DDI, Dublin Core)
+- Adopt metadata standards (e.g., JSON)
 
 - Publish protocols and code
 

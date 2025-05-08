@@ -19,6 +19,13 @@ format:
 
 > "FAIR = Findable, Accessible, Interoperable, Reusable"
 
+::: {.footnote style="font-size: 0.5em;"}
+
+[Article: The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+
+:::
+
+
 
 # Overview of FAIR
 
@@ -78,6 +85,68 @@ format:
 - Add a Creative Commons license
 - Include documentation, codebooks, analysis scripts
 
+# Understanding Data Licenses
+
+## Why it Matters
+
+- Licenses clarify what others can legally do with your data or code
+
+- No license? Others may not be able to reuse your work—even for research
+
+
+# Common License Types
+
+## Creative Commons (CC) — for datasets, docs, media:
+
+- **CC0 (CC0-1.0)** — No rights reserved, public domain
+
+- **CC-BY (CC-BY-4.0)** — Attribution required
+
+- **CC-BY-SA (CC-BY-SA-4.0)** — Attribution + same license
+
+ **Best for data sharing:** CC0 or CC-BY
+
+
+# Open Source Licenses (GitHub-Friendly) {.smaller}
+
+These are commonly used on GitHub for code:
+
+- **MIT** — Simple, permissive, attribution only
+
+- **Apache-2.0** — MIT + patent rights
+
+- **GPL-3.0** — Must share derivative code with same license
+
+- **BSD-2-Clause** and **BSD-3-Clause** — Similar to MIT, widely used
+
+- **MPL-2.0** — File-level copyleft, flexible
+
+- **Unlicense** — Public domain equivalent
+
+ **Most GitHub projects use:** MIT, Apache-2.0, or GPL-3.0
+
+
+
+# How to License Your Work
+
+- Choose based on how open you want reuse to be
+
+- Add a short `README` or metadata tag
+
+**Example:**
+
+```text
+This dataset is licensed under CC-BY 4.0.
+You are free to share and adapt it, provided you give appropriate credit.
+```
+
+Or for code:
+
+```text
+MIT License
+Copyright (c) 2025 Your Name
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+```
 
 # FAIR in Psychology 
 
@@ -96,19 +165,18 @@ format:
 
 - Provide clear licenses
 
-# Where to start
+# Tools and Resources 
 
 - [FAIRsharing.org](https://fairsharing.org/)
 
-- [Open Science Framework](https://osf.io/)
+- [GitHub Pages Licensing Guide](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
 
-- [Zenodo](https://zenodo.org/)
+- [Open Science Framework](https://osf.io/)
 
 - [Creative Commons Licenses](https://creativecommons.org/)
 
----
+- [ChooseALicense.com](https://choosealicense.com/)
 
-# Thank you!
+- [Zenodo](https://zenodo.org/)
 
-_Ambra Perugini_
 
